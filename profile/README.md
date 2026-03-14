@@ -2,8 +2,7 @@
 
 **Your digital partner in software delivery.**
 
-Mane Consultancy helps software teams bring clarity to strategy and consistency to execution.  
-We support organizations in building, testing and delivering software faster, with confidence and less chaos.
+We bring clarity to strategy and consistency to execution. Helping software teams ship faster, smarter with confidence and less chaos.
 
 🌐 https://www.maneconsultancy.be
 
@@ -11,22 +10,27 @@ We support organizations in building, testing and delivering software faster, wi
 
 ## What we do
 
-We help organizations accelerate their **time to market** through pragmatic engineering practices and modern development workflows.
+Discover how we help organizations accelerate their time to market by delivering services built on the right mindset and modern software development practices.
 
 ### Quality Engineering
-We help teams improve software quality and reduce risk through strong testing strategies and engineering practices.
+
+We embed quality at every layer, across strategy, process, and code, long before testing begins.
 
 ### Project Delivery
-From idea to production, we help teams ship and deliver software without unnecessary complexity.
+
+Clear ownership, realistic timelines and the habits that keep teams shipping consistently.
 
 ### Test Automation
-Automate repetitive testing, detect critical issues early and increase confidence in every release.
+
+Scalable test suites that catch issues early, cut regression cycles and keep CI green.
 
 ### Product Development
-We help teams build the right product and build it the right way.
+
+From messy vision to structured backlog, we shape ideas into products people actually want.
 
 ### Release Management
-We help teams structure their release processes so deployments become predictable and safe.
+
+Disciplined pipelines, clear playbooks and coordination that make every release a non-event.
 
 ---
 
@@ -52,6 +56,8 @@ More information coming soon.
 ---
 
 ## Contact
+
+Big ideas start with a simple hello. Tell us what you’re building, what inspires you, or the problem you’re trying to solve. We’d love to hear your story and we’ll bring the coffee.
 
 📧 info@maneconsultancy.be  
 📍 Mechelen, Belgium  
